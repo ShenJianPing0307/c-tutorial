@@ -10,9 +10,10 @@
 //{}里面的是函数体，所有需要执行的代码必须写在{}中
 //每一条代码必须以分号；结尾
 //printf是一个库函数，printf+（）就是函数调用
+#define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 
-//int main1() {
+//int main() {
 //
 //	printf("hello world!");
 //	return 0;

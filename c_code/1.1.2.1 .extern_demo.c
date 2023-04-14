@@ -4,7 +4,7 @@
 #define MAX 10 //定义一个宏（常量），值为10
 
 /*
-int main4() {
+int main() {
 
 	int num = 10; // 定义变量并且初始化
 	extern short SUM; //声明变量，并没有开辟空间

@@ -2,7 +2,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 
 /*
-int main3() {
+int main() {
 	// 定义整型变量
 	int a, b, c;
 	__asm
