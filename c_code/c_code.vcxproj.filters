@@ -66,5 +66,26 @@
     <ClCompile Include="1.1.3.12 if_else_if_demo.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1.1.3.13 three_operatoe.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1.1.3.14 switch_demo.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1.1.3.15 for_demo.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1.1.3.16 while_demo.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1.1.3.17 do_while_demo.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1.1.3.18 muti_for_while_demo.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1.1.3.19 break_continue_goto_demo.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
