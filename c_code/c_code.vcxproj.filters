@@ -15,13 +15,43 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1.1.1 helloworld.c">
+    <ClCompile Include="1.1.2.1 const_demo.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="1.1.2 system_demo.c">
+    <ClCompile Include="1.1.1.1 helloworld.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="1.1.3 qthb_demo.c">
+    <ClCompile Include="1.1.1.2 system_demo.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1.1.1.3 qthb_demo.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1.1.2.1 .extern_demo.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1.1.3.1 operator.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1.1.3.2 operator_demo.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1.1.3.3 operator_demo1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1.1.3.4 operator1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1.1.3.5 operator2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1.1.3.6 operator3.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1.1.3.7 operator4.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1.1.3.8 operator5.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

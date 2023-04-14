@@ -1,7 +1,8 @@
 #include<stdio.h>
 #define _CRT_SECURE_NO_WARNINGS
 
-int main() {
+/*
+int main3() {
 	// 定义整型变量
 	int a, b, c;
 	__asm
@@ -17,3 +18,4 @@ int main() {
 	return 0;
 
 }
+*/

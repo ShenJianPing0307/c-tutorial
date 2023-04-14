@@ -12,8 +12,8 @@
 //printf是一个库函数，printf+（）就是函数调用
 #include<stdio.h>
 
-int main1() {
-
-	printf("hello world!");
-	return 0;
-}
+//int main1() {
+//
+//	printf("hello world!");
+//	return 0;
+//}
